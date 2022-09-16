@@ -14,7 +14,7 @@ netifaces==0.10.6
 oslo.config==4.11.0
 oslo.i18n==3.17.0
 oslo.serialization==2.20.0
-oslo.utils==3.28.0
+oslo.utils==4.10.1
 pbr==3.1.1
 pkg-resources==0.0.0
 positional==1.2.1
